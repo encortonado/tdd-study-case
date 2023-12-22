@@ -38,6 +38,7 @@ Para mais informações sobre testes unitários em Spring Boot, consulte:
 - Documentação oficial do Cucumber: https://cucumber.io
 - Documentação do AssertJ: https://assertj.github.io/doc/
 - Documentação oficial do RestAssured: https://rest-assured.io/
+- Link útil Json Schema: https://jsonschema.net/app/schemas/390701
 
 ## Contribuição
 
